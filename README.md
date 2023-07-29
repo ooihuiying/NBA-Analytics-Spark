@@ -1,3 +1,6 @@
+## Reference to an online tutorial
+https://tanzu.vmware.com/content/blog/how-data-science-assists-sports
+
 ## Virtual environment
 - created via the command python3 -m venv .venv
 - To activate it on MacOs, use `source .venv/bin/activate`
